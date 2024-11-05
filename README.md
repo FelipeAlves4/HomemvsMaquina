@@ -1,1 +1,1 @@
-# Homem vs Maquina
+# Desafio do Código: Humano vs Máquina
